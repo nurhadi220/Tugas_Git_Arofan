@@ -1,0 +1,28 @@
+@media screen and (max-width: 1200px) {
+  #nav-komputer {
+    display: none;
+  }
+  #nav-mobile {
+    display: flex;
+  }
+}
+footer {
+  /* background-color: white;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  border-top: 1px; */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  /* width: 100%; */
+  background-color: white;
+  color: white;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  color: black;
+}
